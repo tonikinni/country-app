@@ -1,0 +1,1 @@
+Application that fetches and shows some basic information about countries.
